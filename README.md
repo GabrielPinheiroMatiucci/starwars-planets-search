@@ -1,7 +1,5 @@
 # Star Wars Planets
 
-## Link do deploy da aplicação: https://project-star-wars-ft.herokuapp.com/
-
 ## Contexto
 ### Este projeto trata de consumir e filtrar dados de planetas do Star Wars que vieram de uma API.
 
